@@ -5,6 +5,7 @@ set(MICROPY_PORT_DIR    ${CMAKE_CURRENT_SOURCE_DIR})
 set(MICROPY_DIR         ${MICROPY_PORT_DIR}/../..)
 set(MICROPY_TARGET My_micropython)
 
+set(CMAKE_BUILD_TYPE Debug)
 
 project(${MICROPY_TARGET})
 
