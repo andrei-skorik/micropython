@@ -8,5 +8,6 @@
         "persistentcode.h": "c",
         "stream.h": "c",
         "alloca.h": "c"
-    }
+    },
+    "nrf-connect.topdir": "/home/jazz/ncs"
 }
